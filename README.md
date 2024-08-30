@@ -1,4 +1,4 @@
-# Título do Projeto
+# Consultoria e Soluções em TI para ONG LARBEM
 
 `CURSO: Sistemas de Informação`
 
@@ -6,25 +6,33 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este documento apresenta um estudo detalhado sobre o Lar Batista Elizabeth Mein (LARBEM), instituição de acolhimento de crianças e adolescentes em Recife-PE. 
+O objetivo é identificar oportunidades de desenvolvimento de soluções sistêmicas para melhorar processos, gestão e uso de dados, visando enfrentar os desafios da organização que opera com recursos limitados.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
-
+* Karina Bezerra dos Santos de Siqueira
+* Letícia de Sá Almeida Costa Silva Figueiredo
+* Matheus Rodrigues Andrade
+* Michele Souza Sato
+* Rafael Soutto Mayor Assumpção Pinheiro Alves
+* Rafaela Bezerra dos Santos
 
 ## Orientador
 
-* Nome completo do professor 1
+Simone Fernandes Queiroz
 
 # Planejamento
 
-Descrever o planejamento de cada etapa       
+* Entregável da Etapa 1:
+Relatório de Análise Organizacional e de Mercado  
+
+* Entregável da Etapa 2: 
+Plano de Inteligência Competitiva e Compliance em TI
+
+* Entregável da Etapa 3:
+* Entregável da Etapa 4:
+* Entregável da Etapa 5:
 
 # Código
 
