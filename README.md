@@ -1,4 +1,4 @@
-# Consultoria e Soluções em TI para ONG LARBEM
+# Consultoria e Soluções em TI para Instituição LARBEM
 
 `CURSO: Sistemas de Informação`
 
@@ -20,7 +20,7 @@ O objetivo é identificar oportunidades de desenvolvimento de soluções sistêm
 
 ## Orientador
 
-Simone Fernandes Queiroz
+Professora: Simone Fernandes Queiroz
 
 # Planejamento
 
